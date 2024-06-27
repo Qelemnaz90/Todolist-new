@@ -1,0 +1,47 @@
+h1{
+    margin-top: 60px;
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+
+}
+
+img{
+    width: 70px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+button{
+    height: 35px;
+    width: 60px;
+    border-radius: 5px;
+    color: white;
+    background-color:red;
+}
+
+
+.main ul {
+    width: 365px;
+    margin-left: 580px;
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+
+.btns{
+    display: flex;
+    gap: 5px;
+
+}
